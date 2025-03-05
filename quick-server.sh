@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# quick_server: Start a web server in the current directory
+# Author: antoniohg (https://github.com/antoniohg)
+# Description: Start a web server in the current directory
+# Dependencies: Python 3 or Node.js (http-server)
 # Usage: quick_server [port] [directory]
 #   port: The port to use for the server (default: 8000)
 #   directory: The directory to serve (default: .)
