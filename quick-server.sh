@@ -12,7 +12,6 @@ function quick_server() {
   local dir=${2:-.}
 
   # Define color codes
-  PURPLE='\033[0;35m'
   GREEN='\033[1;32m'      # Brighter green
   BLUE='\033[1;34m'       # Brighter blue
   CYAN='\033[1;36m'       # Bright cyan
